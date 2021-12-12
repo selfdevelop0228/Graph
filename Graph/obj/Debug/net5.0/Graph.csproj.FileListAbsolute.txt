@@ -1,0 +1,16 @@
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.exe
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.deps.json
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.dll
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\ref\Graph.dll
+D:\SelfDevelop\DataStructure\Graph\Graph\bin\Debug\net5.0\Graph.pdb
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.dll
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\ref\Graph.dll
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.pdb
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache
+D:\SelfDevelop\DataStructure\Graph\Graph\obj\Debug\net5.0\Graph.csproj.AssemblyReference.cache
